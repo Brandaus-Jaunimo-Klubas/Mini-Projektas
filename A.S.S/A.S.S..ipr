@@ -10,7 +10,7 @@
       <entry name="!?*.scala" />
       <entry name="!?*.flex" />
       <entry name="!?*.kt" />
-      <entry name="!?*.clj" /> //g
+      <entry name="!?*.clj" />
       <entry name="!?*.aj" />
     </wildcardResourcePatterns>
     <annotationProcessing>
@@ -39,11 +39,6 @@
     <OptionsSetting value="true" id="Edit" />
     <ConfirmationsSetting value="0" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
-  </component>
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/A.S.S..iml" filepath="$PROJECT_DIR$/A.S.S..iml" />
-    </modules>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" assert-keyword="true" jdk-15="true" project-jdk-name="Android API 19 Platform" project-jdk-type="Android SDK">
     <output url="file://$PROJECT_DIR$/out" />
