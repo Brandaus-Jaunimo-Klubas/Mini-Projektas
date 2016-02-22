@@ -10,7 +10,7 @@
       <entry name="!?*.scala" />
       <entry name="!?*.flex" />
       <entry name="!?*.kt" />
-      <entry name="!?*.clj" />
+      <entry name="!?*.clj" /> //g
       <entry name="!?*.aj" />
     </wildcardResourcePatterns>
     <annotationProcessing>
